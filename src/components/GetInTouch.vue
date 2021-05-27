@@ -26,7 +26,7 @@
       >
         <base-bubble-1 />
 
-        <base-heading class="mb-10">
+        <base-heading class="ma-5 mb-5">
           Get In Touch
         </base-heading>
         <v-sheet
