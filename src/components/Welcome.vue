@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/welcom.jpeg')"
+          :src="require('@/assets/welco.jpeg')"
           height="100vh"
         />
       </v-col>
