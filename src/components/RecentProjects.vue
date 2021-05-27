@@ -77,7 +77,7 @@
 
 <script>
   export default {
-    name: 'RecentProjects',
+    name: 'Professional',
 
     data: () => ({
       skills: [

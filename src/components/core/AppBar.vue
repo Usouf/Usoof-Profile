@@ -1,11 +1,11 @@
 <template>
   <v-app-bar
     v-scroll="onScroll"
-    :color="!isScrolling ? 'transparent' : 'white'"
+    :color="!isScrolling ? 'transparent' : 'transparent'"
     fixed
     flat
   >
-    <v-slide-x-transition>
+    <!-- <v-slide-x-transition>
       <v-img
         v-if="showLogo"
         :src="require('@/assets/logo.png')"
@@ -13,7 +13,7 @@
         contain
         height="50"
       />
-    </v-slide-x-transition>
+    </v-slide-x-transition> -->
 
     <v-spacer />
 

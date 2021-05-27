@@ -8,7 +8,7 @@
       no-gutters
     >
       <v-col
-        class="pa-5"
+        class="pl-10"
         cols="12"
         md="6"
       >
@@ -78,6 +78,7 @@
 
 <script>
   export default {
+    name: 'AboutMe',
     data: () => ({
       Languages: [
         {

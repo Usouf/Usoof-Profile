@@ -71,7 +71,7 @@
 
 <script>
   export default {
-    name: 'Services',
+    name: 'Education',
 
     data: () => ({
       services: [

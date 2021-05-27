@@ -9,7 +9,7 @@
         md="6"
       >
         <v-img
-          :src="require('@/assets/welcome.png')"
+          :src="require('@/assets/welcom.jpeg')"
           height="100vh"
         />
       </v-col>
@@ -50,3 +50,9 @@
     </v-row>
   </section>
 </template>
+
+<script>
+  export default {
+    name: 'Welcome',
+  }
+</script>

@@ -15,7 +15,6 @@
 <script>
   export default {
     name: 'CoreView',
-
     components: {
       AboutMe: () => import('@/components/AboutMe'),
       GetInTouch: () => import('@/components/GetInTouch'),
