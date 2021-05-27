@@ -91,7 +91,7 @@
           blurb: 'Ajman University',
         },
         {
-          name: 'Android & Web Development',
+          name: 'Mobile & Web Development',
           icon: 'mdi-android',
           blurb: 'Online',
         },
